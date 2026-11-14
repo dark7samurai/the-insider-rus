@@ -12,6 +12,8 @@
 
 По всем найденным ошибкам можно написать мне в [Telegram](https://t.me/dark7samurai)
 
+Версия русификатора 1.0 (от 21 ноября 2026)
+
 - - -
 
-[dark7samurai](https://github.com/dark7samurai) © 2025-2026 | v1.0
+[dark7samurai](https://github.com/dark7samurai) © 2025-2026
